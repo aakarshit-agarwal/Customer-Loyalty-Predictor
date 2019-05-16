@@ -1,2 +1,2 @@
-# Customer-Loyalty-Predictor
+# CustomerLoyaltyPredictor
 Predict customer loyalty towards banks
